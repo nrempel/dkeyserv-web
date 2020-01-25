@@ -1,0 +1,14 @@
+baseURL: http://dkeyserv.com/
+languageCode: en-us
+title: dkeyserv
+theme: book
+
+params:
+  BookMenuBundle: /menu
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
