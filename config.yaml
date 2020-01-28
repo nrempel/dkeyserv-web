@@ -1,6 +1,6 @@
 baseURL: http://dkeyserv.com/
 languageCode: en-us
-title: dkeyserv
+title: Distributed PGP Keyserver
 theme: book
 
 params:
